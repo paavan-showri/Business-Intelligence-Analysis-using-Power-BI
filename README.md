@@ -13,7 +13,7 @@ By meticulously analyzing data, connecting and shaping it using Power Query, con
 
 ## Executive Summary
 
-<img src="https://github.com/paavan-showri/Business-Intelligence-Analysis-using-Power-BI/blob/main/Assets/Summary.gif?raw=true" >
+<img src="https://github.com/paavan-showri/Business-Intelligence-Analysis-using-Power-BI/blob/main/Assets/Summary.gif?raw=true" width="70%">
 
 ## Product Details
 
